@@ -45,5 +45,15 @@ git clone <(https://github.com/amarismariano/frontend-tests)>
 cd <frontend-tests>
 ```
 
-NPM INSTALL 
+3️⃣ Instalar Dependencias
+npm install
+
+4️⃣ Instalar los Navegadores
+Playwright requiere la instalación de los navegadores que se usarán para las pruebas:
+npx playwright install
+
+🚀 Cómo Ejecutar los Tests
+npx playwright test
+
+Al ejecutar los tests, estos se ejecutaran 1 x 1, dado que la API/url que estamos usando al ser paga, se necesita de un click en la pagina para proseguir
 
