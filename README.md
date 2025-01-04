@@ -41,6 +41,9 @@ Sigue estos pasos para descargar y ejecutar los tests en tu máquina local:
 ### 2️⃣ **Clonar el Repositorio**
 
 ```bash
-git clone <URL_DEL_REPOSITORIO>
-cd <NOMBRE_DEL_PROYECTO>
+git clone <(https://github.com/amarismariano/frontend-tests)>
+cd <frontend-tests>
 ```
+
+NPM INSTALL 
+
